@@ -2,18 +2,6 @@
 
 Seraphina is a Post Partum Depression analysis platform designed to help users assess their mental well-being and provide tips for improving it. By leveraging machine learning techniques, Seraphina detects signs of depression and offers personalized advice based on the severity of the detected condition.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Site Link](#SiteLink)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
