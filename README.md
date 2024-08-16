@@ -44,7 +44,7 @@ To get started with Seraphina, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/seraphina.git](https://github.com/prashx1908/Seraphina.git)
+    git clone https://github.com/prashx1908/Seraphina.git
     cd seraphina
     ```
 
