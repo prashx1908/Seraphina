@@ -20,7 +20,7 @@ Seraphina is a Post Partum Depression analysis platform designed to help users a
 Mental health is an important aspect of overall well-being. Seraphina is a tool that aims to provide insights into a user's mental state by analyzing various factors and symptoms. It provides tailored tips and resources based on the results of the analysis, which can help users take steps toward better mental health.
 
 ## Site Link
-[Click Here](https://seraphina.streamlit.app/)
+- **Seraphina**:[Click Here](https://seraphina.streamlit.app/)
 
 ## Features
 
